@@ -11,6 +11,14 @@ Editorial Office
 biasjournalofphysics@gmail.com 
 
 
+Editorial Board
+
+Dr. Ali Övgün *Pontificia Universidad Católica de Valparaíso, Chile.
+
+Kimet Jusufi *State University of Tetovo. *Ss. Cyril and Methodius University, Macedonia.
+
+Prof. Dr. İzzet Sakallı *Eastern Mediterranean University, North Cyprus.
+
 General Contact Information
 
 Postal Addresses
