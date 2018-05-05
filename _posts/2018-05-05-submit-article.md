@@ -8,7 +8,8 @@ img: /img/biasjpp.jpg
 tags: [test]
 ---
 
-img: "/img/biasjpp.jpg"
+
+<img border="0" alt="BIASJP" src="/img/biasjpp.jpg">
 
 <a href="https://www.manuscriptlink.com/journals/biasjp"><img border="0" alt="Submit" src="/img/submit.png">
 
