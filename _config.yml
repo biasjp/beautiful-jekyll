@@ -14,25 +14,24 @@ baseurl: "/biasjp"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: BIAS Journal of PHysics
+title: BIAS Journal of Physics
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Bumblebee Institute for Advanced Study (BIAS) Journal of Physics
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  About: "about"
+  Scope: "scope"
+  Submit Article: "https://www.manuscriptlink.com/journals/biasjp"
+  BIAS: "https://bumblebeegr.github.io/BIAS/"
+  Contact: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/biasjp.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -64,7 +63,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Dr. Ali Övgün
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
