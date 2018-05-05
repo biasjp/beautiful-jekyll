@@ -11,10 +11,14 @@ BIAS Journal of Physics is a peer-reviewed, Open Access journal that publishes t
 Editorial Board
 
 Dr. Ali Övgün 
+
 Pontificia Universidad Católica de Valparaíso, Chile.
 
-Kimet Jusufi *State University of Tetovo.
+Kimet Jusufi 
+
+State University of Tetovo.
 Ss. Cyril and Methodius University, Macedonia.
 
 Prof. Dr. İzzet Sakallı
+
 Eastern Mediterranean University, North Cyprus.
