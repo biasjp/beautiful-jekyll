@@ -8,8 +8,6 @@ gh-repo: biasjp/biasjp
 tags: [submit]
 ---
 
-image: /img/biasjpp.jpg
-
 
 <a href="https://www.manuscriptlink.com/journals/biasjp"><img border="0" alt="Submit" src="/img/submit.png">
 
