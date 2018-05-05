@@ -3,7 +3,7 @@ layout: post
 title:  Submit an article
 subtitle: Vol.1, No.1 2018
 gh-repo: biasjp/biasjp
-bigimg:/img/biasjpp.jpg
+bigimg: /img/biasjpp.jpg
 #gh-badge: [star, fork, follow]
 tags: [test]
 ---
