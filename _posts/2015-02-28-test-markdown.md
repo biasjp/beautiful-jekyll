@@ -8,8 +8,8 @@ tags: [test]
 ---
 
 <a href="https://www.manuscriptlink.com/journals/biasjp">
-<src="biasjp/img/submit.png">
+"/img/submit.png"
 
 
-![BIASJP](biasjp/img/BIAS JOURNAL OF PHYSICS.jpg)
+"img/BIAS JOURNAL OF PHYSICS.jpg"
 
