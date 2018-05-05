@@ -3,7 +3,7 @@ layout: post
 title:  BIAS Journal of Physics
 subtitle: Vol.1, No.1 2018
 gh-repo: biasjp/biasjp
-bigimg: /img/BIAS JOURNAL OF PHYSICS.jpg
+bigimg: /img/submit.png
 #gh-badge: [star, fork, follow]
 tags: [test]
 ---
