@@ -10,5 +10,6 @@ tags: [submit]
 
 
 <a href="https://www.manuscriptlink.com/journals/biasjp"><img src="/img/submit.png">
+  
 
-<img src="/img/biasjpp.jpg"style="width:100px;height:200px;">
+<img src="/img/biasjpp.jpg">
