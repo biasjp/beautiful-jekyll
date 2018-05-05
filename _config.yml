@@ -18,7 +18,7 @@ title: BIAS Journal of Physics
 
 # Short description of your site
 description: Bumblebee Institute for Advanced Study (BIAS) Journal of Physics
-
+image:"/img/biasjp.jpg"
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
@@ -55,8 +55,8 @@ footer-link-col: "#404040"
 # instead of colour
 
 # navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+ footer-img: "/img/biasjp.jpg"
+ page-img: "/img/biasjpp.jpg"
 
 # --- Footer options --- #
 
