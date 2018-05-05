@@ -1,10 +1,3 @@
-
----
-layout: page
-title: Scope
-subtitle: Why you'd submit a article to BIASJP
----
-
 Frequency: 2 issues per year.
 
 When a star exhausts its internal thermonuclear fuel at the end of its life, it becomes unstable and gravitationally collapses inwards upon itself to leave a small dense remnant core. If the core’s mass is more than about three times the mass of our sun, the equations of Einstein’s theory of general relativity show that the force of gravity will overwhelm all other forces and produce a black hole: an object of extremely intense gravity from which nothing, not even light, can escape.
