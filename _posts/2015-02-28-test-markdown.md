@@ -7,8 +7,8 @@ gh-repo: biasjp/biasjp
 tags: [test]
 ---
 
-<a href="https://www.manuscriptlink.com/journals/biasjp"><img border="0" alt="Submit" src="/img/submit.png" width="100" height="100">
+<a href="https://www.manuscriptlink.com/journals/biasjp"><img border="0" alt="Submit" src="/img/submit.png" width="300" height="200">
 
 
 
-<img border="0" alt="Submit" src="img/BIAS JOURNAL OF PHYSICS.jpg" width="200" height="300">
+<src="img/BIAS JOURNAL OF PHYSICS.jpg" width="200" height="300">
