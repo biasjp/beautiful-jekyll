@@ -3,6 +3,7 @@ layout: post
 title:  BIAS Journal of Physics
 subtitle: Vol.1, No.1 2018
 gh-repo: biasjp/biasjp
+bigimg: /img/BIAS JOURNAL OF PHYSICS.jpg
 #gh-badge: [star, fork, follow]
 tags: [test]
 ---
@@ -11,4 +12,4 @@ tags: [test]
 
 
 
-<src="img/BIAS JOURNAL OF PHYSICS.jpg" width="200" height="300">
+<src="/img/BIAS JOURNAL OF PHYSICS.jpg" width="200" height="300">
