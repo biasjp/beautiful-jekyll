@@ -14,7 +14,7 @@ baseurl: "/biasjp"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-#title: BIAS Journal of Physics
+title: BIAS Journal of Physics
 
 # Short description of your site
 description: Bumblebee Institute for Advanced Study (BIAS) Journal of Physics
@@ -35,7 +35,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
- title-img: "/img/biasjp.jpg"
+ #title-img: "/img/biasjp.jpg"
 
 # --- Background colour/image options --- #
 
