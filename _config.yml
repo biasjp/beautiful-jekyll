@@ -25,7 +25,8 @@ description: Bumblebee Institute for Advanced Study (BIAS) Journal of Physics
 navbar-links:
   About: "about"
   Scope: "scope"
-  Submit Article: "https://www.manuscriptlink.com/journals/biasjp"
+  Submit Article: "http://dergipark.gov.tr/biasjp"
+  #Submit Article: "https://www.manuscriptlink.com/journals/biasjp"
   BIAS: "https://bumblebeegr.github.io/BIAS/"
   Contact: "contact"
 
