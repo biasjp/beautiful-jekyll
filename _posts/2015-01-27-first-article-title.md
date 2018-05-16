@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Article Title
+title: Article 2
 
 ---
 
