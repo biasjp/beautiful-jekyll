@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Article 2
+title: Issue 1
 
 ---
 
